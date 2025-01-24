@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+iam corrently learning github and git
+iam from non it background and strong enthusiatic to work on this tools
 <!--
 **Rohith-Eswar/Rohith-Eswar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
